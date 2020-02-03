@@ -3,3 +3,11 @@
 * Location: Minsk
 * Phone number: +375-44-585-26-38
 * E-mail: yulia1903@gmail.com
+
+### Summary:
+My main goal for now is to become a front-end developer, improve my programming and English skills, get as much experience as it possible. I got some experience in programming during studying at University, but I think that was not enough for me, so I want to study by myself and reach some goals. 
+
+### Skills:
+* HTML5/CSS3 
+* Java Script 
+* C/C++ (basics)
