@@ -11,3 +11,29 @@ My main goal for now is to become a front-end developer, improve my programming 
 * HTML5/CSS3 
 * Java Script 
 * C/C++ (basics)
+
+
+### Code examples:
+#### Here's one of my tasks from [Codewars](www.codewars.com):
+```javascript
+function duplicateCount(text){
+  let str = text.toLowerCase();
+  let arr = str.split('');
+  arr.sort();
+
+  let temp = [];
+  for (let i = 0; i<arr.length; i++){
+      if (arr[i]==arr[i+1]) {
+        temp.push(arr[i]);
+      }    
+  }
+  let result = [];
+  for (let i = 0; i<temp.length; i++){
+    if (!result.includes(temp[i])) {
+      result.push(temp[i]);
+  }
+}
+let count = result.length;
+return count;
+}
+``` 
