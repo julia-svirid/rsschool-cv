@@ -37,3 +37,12 @@ let count = result.length;
 return count;
 }
 ``` 
+### Experience:
+As experiece I can name only tasks from codewars and creating layouts.
+
+### Education:
+Now studying at Belarusian State University of Informatics and Radioelectronics, Faculty of Information Technology and Control, Specialty Automated Information Processing Systems.
+
+### Soft skills:
+English Upper-Intermediate(B2), finished Streamline courses
+Experience of living abroad for 2 years, good communication and spoken English skills.
