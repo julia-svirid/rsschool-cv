@@ -86,3 +86,17 @@ img {
     list-style: square;
     font-size: 27px;
 }
+
+
+
+#contacts {
+    margin-left: 45px;
+}
+
+.contact__info {
+    display: flex;
+    flex-direction: column;
+    color: #ffffff;
+    background-color: #2D303A;
+    
+}
