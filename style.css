@@ -77,3 +77,10 @@ img {
     color: #2D303A;
     margin-left: 20px;
 } 
+
+
+
+.skills__list {
+    list-style: square;
+    font-size: 27px;
+}
