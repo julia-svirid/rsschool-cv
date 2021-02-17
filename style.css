@@ -120,6 +120,9 @@ img {
 .contact-list {
     list-style: square;
 }
+.contact-ul {
+    padding: 0px;
+}
 
 .footer-info {
     align-self: flex-end;
