@@ -1,22 +1,23 @@
-.container {
-    width: 100%;
-    max-width: 1024px;
-    margin: 0 auto;
+body {
+    background-color: #ffffff;
+    margin: 0;
     font-family: 'Lato', sans-serif;
 }
 
-body {
-    background-color: #f3eded;
-}
-
 .content {
-    background-color: #f3eded;
+    background-color: #ffffff;
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;  
 }
-
 
 h2 {
     font-weight: bold;
     font-size: 27px;
+}
+
+h3, pre {
+    margin: 0;
 }
 
 
@@ -25,11 +26,16 @@ h2 {
     height: 70px;
     background-color: rgb(59, 63, 75);
     margin: 0px;
-    display: flex;
-    justify-content: space-between;
-    
 }
 
+.heared-content {
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+    font-family: 'Lato', sans-serif;
+    display: flex;
+    justify-content: space-between;
+}
 
 .title {
     text-transform: uppercase;
@@ -75,28 +81,52 @@ img {
 .text__image {
     display: flex;
     align-items: center;
-    font-size: 27px;
+    font-size: 20px;
     color: #2D303A;
-    margin-left: 20px;
 } 
 
 
+.examples-container {
+    display: flex;
+    
+}
+
+.example {
+    margin-right: 60px;
+    font-size: 15px;
+}
 
 .skills__list {
     list-style: square;
-    font-size: 27px;
+    font-size: 20px;
 }
 
 
 
-#contacts {
-    margin-left: 45px;
-}
 
-.contact__info {
-    display: flex;
-    flex-direction: column;
+.footer {
     color: #ffffff;
     background-color: #2D303A;
-    
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1024px;
+}
+
+.contact-list {
+    list-style: square;
+}
+
+.footer-info {
+    align-self: flex-end;
+    margin: 22px;
+    height: 40px;
+}
+
+.rss-logo {
+    border-radius: 0;
 }
